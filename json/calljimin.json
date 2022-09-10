@@ -1,0 +1,27 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-8742259596659107/5355280480",
+      "main_ads_intertitial":"ca-app-pub-8742259596659107/1416035474",
+      "native_for_admob":"ca-app-pub-8742259596659107/6476790465",
+      "backup_ads_banner":"a8b41dac13a280e5",
+      "backup_ads_native":"1a1966215d5412bd",
+      "backup_ads_intertitial":"48dfe8d8b6a2d7a3",
+      "interval_intertitial": 2,
+      "initialize_sdk":"4665793",
+      "initialize_sdk_backup_ads":"4665793",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "visible_gone_moreapp": "0",
+      "stroke_line_native_ads": "1",
+      "native_ads_color": "#FFF34A14"
+      }
+   ]
+}
